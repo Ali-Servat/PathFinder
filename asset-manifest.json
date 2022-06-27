@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PathFinder/static/css/main.20b328be.css",
+    "main.js": "/PathFinder/static/js/main.5bc9db64.js",
+    "static/media/Shabnam.ttf": "/PathFinder/static/media/Shabnam.5b9b09c283c263361c6d.ttf",
+    "index.html": "/PathFinder/index.html",
+    "main.20b328be.css.map": "/PathFinder/static/css/main.20b328be.css.map",
+    "main.5bc9db64.js.map": "/PathFinder/static/js/main.5bc9db64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20b328be.css",
+    "static/js/main.5bc9db64.js"
+  ]
+}
