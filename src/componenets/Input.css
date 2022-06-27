@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "shabnam";
+    src: url("../../public/Assets/Shabnam.ttf") format("woff");
+}
+
+.form {
+    direction: rtl;
+    box-sizing: border-box;
+    margin: 20px auto;
+    max-width: 80%;
+    font-size: 1.5rem;
+}
+
+.form fieldset {
+    padding: 20px;
+}
+
+.form select {
+    font-size: 1.2rem;
+    padding: 10px;
+    font-family: "shabnam";
+}

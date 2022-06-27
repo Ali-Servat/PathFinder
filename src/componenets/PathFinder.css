@@ -1,0 +1,17 @@
+.wrapper {
+    max-width: 80%;
+    margin: auto;
+}
+
+.rowWrapper {
+    display: flex;
+}
+
+.wrapper-top {
+    direction: rtl;
+}
+
+.wrapper button {
+    font-family: "shabnam";
+    font-size: 1.2rem;
+}
